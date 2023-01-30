@@ -1,0 +1,11 @@
+{
+  "name": "WhoAdded",
+  "description": "Shows which playlist the song is playing from and who added the song to the playlist in the bottom bar.",
+  "preview": "screenshot.png",
+  "main": "who-added.js",
+  "readme": "README.md",
+  "authors": [
+      { "name": "GentlyTech", "url": "https://github.com/GentlyTech" }
+  ],
+  "tags": ["playlists"]
+}
