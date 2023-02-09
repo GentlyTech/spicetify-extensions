@@ -1,11 +1,13 @@
-{
-  "name": "WhoAdded",
-  "description": "Shows which playlist the song is playing from and who added the song to the playlist in the bottom bar.",
-  "preview": "WhoAdded/screenshot.png",
-  "main": "WhoAdded/who-added.js",
-  "readme": "WhoAdded/README.md",
-  "authors": [
-      { "name": "GentlyTech", "url": "https://github.com/GentlyTech" }
-  ],
-  "tags": ["playlists"]
-}
+[
+  {
+    "name": "WhoAdded",
+    "description": "Shows which playlist the song is playing from and who added the song to the playlist in the bottom bar.",
+    "preview": "./WhoAdded/screenshot.png",
+    "main": "./WhoAdded/who-added.js",
+    "readme": "./WhoAdded/README.md",
+    "authors": [
+        { "name": "GentlyTech", "url": "https://github.com/GentlyTech" }
+    ],
+    "tags": ["playlists"]
+  }
+]
